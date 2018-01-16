@@ -11,8 +11,6 @@
 
 # Resources
 
-<ul>
-<li> [impress.js](https://github.com/bartaz/impress.js/) </li>
-<li> [whatisgit](https://github.com/aht/whatisgit) </li>
-<li> [css3d](https://github.com/bartaz/bartaz.github.com/tree/master/meetjs/css3d-summit) </li>
-</ul>
+- [impress.js](https://github.com/bartaz/impress.js/)</li>
+- [whatisgit](https://github.com/aht/whatisgit)</li>
+- [css3d](https://github.com/bartaz/bartaz.github.com/tree/master/meetjs/css3d-summit)</li>
